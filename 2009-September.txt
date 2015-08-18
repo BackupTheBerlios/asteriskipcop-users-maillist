@@ -1,0 +1,49 @@
+From leopardo at maltanet.net  Sun Sep 13 08:31:19 2009
+From: leopardo at maltanet.net (Twanny Azzopardi)
+Date: Sun, 13 Sep 2009 08:31:19 +0200
+Subject: [Asteriskipcop-users] No zaptel module?
+Message-ID: <4AAC91B7.8010304@maltanet.net>
+
+Hello list,
+
+Just installed the lateset asterisk ipcop from the install CD. I have a 
+X100P card, but there is no zaptel driver? Am i doing something wrong?
+
+regards,
+Anthony.
+
+
+From mikeoverip at gmail.com  Mon Sep 14 12:13:00 2009
+From: mikeoverip at gmail.com (mikeOverIP@gmail.com)
+Date: Mon, 14 Sep 2009 12:13:00 +0200
+Subject: [Asteriskipcop-users] No zaptel module?
+In-Reply-To: <4AAC91B7.8010304@maltanet.net>
+References: <4AAC91B7.8010304@maltanet.net>
+Message-ID: <20090914121300.39c142bd@facePlanter>
+
+On Sun, 13 Sep 2009 08:31:19 +0200
+Twanny Azzopardi <leopardo at maltanet.net> wrote:
+
+> Hello list,
+> 
+> Just installed the lateset asterisk ipcop from the install CD. I have a 
+> X100P card, but there is no zaptel driver? Am i doing something wrong?
+> 
+> regards,
+> Anthony.
+
+Hi Anthony,
+
+unfortunately there is no support for zaptel/dadhi
+mainly because IPCop still has 2.4 kernel.
+Please correct me if I'm wrong.
+
+That said, if you are not in a hurry, I'm curious to check compatibility between current digiun/clones hardware and 2.4 kernel.
+Also checking conference (MeetMe) usability would be useful.
+I can access most of the telephony cards but I can't say the same about spare time.
+
+
+Regards and have a nice day,
+Mike
+
+
